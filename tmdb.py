@@ -64,7 +64,7 @@ else:
 
 
 config = {}
-config['apikey'] = "a8b9f96dde091408a03cb4c78477bd14"
+config['apikey'] = "cb2a7373979497a9b4d3b951f0ca6fbe"
 
 config['urls'] = {}
 config['urls']['movie.search'] = "http://api.themoviedb.org/2.1/Movie.search/en/xml/%(apikey)s/%%s" % (config)
